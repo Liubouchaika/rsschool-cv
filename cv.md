@@ -8,7 +8,7 @@ E-mail: liubouchaika@gmail.com.
 ### *Summary*
 I want to become a software developer. I have not to skills for it right now but I do my best to get as much experience and knowledge as I can.
 
-###*Skills*
+### *Skills*
 HTML, CSS.
 
 ### *Experience*
@@ -21,7 +21,7 @@ Codecademy.com:
 - Introduction to HTML
 - Learn CSS
 
-###*English level*
+### *English level*
 Pre-intermediate.
  
 I can read, listen, write in English and give answers to simple questions.
