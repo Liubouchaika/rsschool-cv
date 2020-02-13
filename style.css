@@ -1,0 +1,55 @@
+body {
+    background-color: #eee;
+}
+
+content {
+    background-color: #ffffff;
+    display:block;
+    max-width: 1024px;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+header {
+  display:block;
+  margin: 20px;
+}
+
+main {
+    margin: 20px;
+}
+
+nav {
+    display:block;
+}
+
+figure {
+    display:block;
+    float: right;}
+
+img {
+    border:10px solid #1A5276;
+}
+
+p,li {
+    font-size:25px;
+    font-family: 'Playfair Display', serif;
+    color: #515A5A;
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 35px;
+    color: #1B4B72;
+
+}
+
+h2 {
+    font-size:30px;
+    font-family: 'Playfair Display', serif;
+    color: #2874A6;
+}
+
+
